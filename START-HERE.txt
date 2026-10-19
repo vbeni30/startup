@@ -1,0 +1,8 @@
+SECOND FORM WEBSITE
+
+Install dependencies with npm install, then start the site with npm run dev.
+Open http://localhost:3000.
+
+The page is a Next.js app. Edit components for content, app/globals.css for styling, and the client components in components/ for interactions. Images, fonts, and the favicon are in public/assets.
+
+The enquiry form prepares a local brief. It does not send messages.
